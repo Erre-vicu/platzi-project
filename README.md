@@ -1,1 +1,3 @@
 # platzi-project
+
+#Steps
